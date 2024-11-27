@@ -1,16 +1,16 @@
   <header>
-        <h1>Tiranga Game Login</h1>
+        <h1>Tiranga App</h1>
     </header>
 
    <section>
         <h2>Quick Access Links:</h2>
-            <h3><a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game Login</h3>
-            <h3><a href="https://tiranga-game.one/download/" target="_blank">Download Tiranga Game</h3>
+            <h3><a href="https://tiranga-game.one/login/" target="_blank">Tiranga App Login</h3>
+            <h3><a href="https://tiranga-game.one/download/" target="_blank">Download Tiranga App</h3>
     </section>
     <section>
       <h2>Introduction</h2>
         <p>
-            Tiranga Game is a popular online game that combines entertainment with patriotism, where players engage in various activities while experiencing a celebration of India's heritage and national symbols. Whether you're a fan of strategy games, action-packed missions, or immersive experiences, Tiranga Game offers something for everyone. The game allows users to dive into exciting missions while also contributing to the spirit of patriotism. If you're eager to join the fun, you can easily get started by logging into the game or downloading it from the official website.
+            Tiranga App is a popular online game that combines entertainment with patriotism, where players engage in various activities while experiencing a celebration of India's heritage and national symbols. Whether you're a fan of strategy games, action-packed missions, or immersive experiences, Tiranga Game offers something for everyone. The game allows users to dive into exciting missions while also contributing to the spirit of patriotism. If you're eager to join the fun, you can easily get started by logging into the game or downloading it from the official website.
         </p>
     </section>
     <section>
@@ -26,7 +26,7 @@
     <section>
         <h2>Frequently Asked Questions (FAQs)</h2>
         <dl>
-            <dt>1. How do I download Tiranga Game?</dt>
+            <dt>1. How do I download Tiranga App?</dt>
             <dd>To download Tiranga Game, visit the official <a href="https://tiranga-game.one/download/" target="_blank">Tiranga Game Download</a> page, where you can access the latest version for your device.</dd>
     <dt>2. What devices are compatible with Tiranga Game?</dt>
            <dd>Tiranga Game is compatible with both Windows and Mac devices. Ensure that your system meets the minimum requirements for smooth gameplay.</dd>
