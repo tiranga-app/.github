@@ -4,18 +4,19 @@
 
    <section>
         <h2>Quick Access Links:</h2>
-            <h3><a href="https://tiranga-game.one/login/" target="_blank">Tiranga App Login</h3>
+            <h3><a href="https://tiranga-game.one/login/" target="_blank">Tiranga App</h3>
             <h3><a href="https://tiranga-game.one/download/" target="_blank">Download Tiranga App</h3>
+              <h3><a href="https://tiranga-game.one/download/" target="_blank">Tiranga Colour Trading</h3>
     </section>
     <section>
       <h2>Introduction</h2>
         <p>
-            Tiranga App is a popular online game that combines entertainment with patriotism, where players engage in various activities while experiencing a celebration of India's heritage and national symbols. Whether you're a fan of strategy games, action-packed missions, or immersive experiences, Tiranga Game offers something for everyone. The game allows users to dive into exciting missions while also contributing to the spirit of patriotism. If you're eager to join the fun, you can easily get started by logging into the game or downloading it from the official website.
+            Tiranga Game App is a popular online game that combines entertainment with patriotism, where players engage in various activities while experiencing a celebration of India's heritage and national symbols. Whether you're a fan of strategy games, action-packed missions, or immersive experiences, Tiranga Game offers something for everyone. The game allows users to dive into exciting missions while also contributing to the spirit of patriotism. If you're eager to join the fun, you can easily get started by logging into the game or downloading it from the official website.
         </p>
     </section>
     <section>
-        <h2>How to Play Tiranga Game</h2>
-        <p>Playing Tiranga Game is easy and enjoyable. Here's a basic guide to get you started:</p>
+        <h2>How to Play games on Tiranga App</h2>
+        <p>Playing games on Tiranga app is easy and enjoyable. Here's a basic guide to get you started:</p>
         <ol>
             <li><strong>Create an Account:</strong> Visit the <a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game Login</a> page to sign in or create a new account.</li>
             <li><strong>Choose Your Mission:</strong> Once logged in, you'll have access to a range of exciting missions that immerse you in scenarios based on Indian heritage.</li>
