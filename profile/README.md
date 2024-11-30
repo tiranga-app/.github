@@ -6,7 +6,7 @@
         <h2>Quick Access Links:</h2>
             <h3><a href="https://tiranga-game.one/login/" target="_blank">Tiranga App</h3>
             <h3><a href="https://tiranga-game.one/download/" target="_blank">Download Tiranga App</h3>
-              <h3><a href="https://tiranga-game.one/download/" target="_blank">Tiranga Colour Trading</h3>
+              <h3><a href="https://tiranga-game.one/download/](https://tiranga-game.one/tiranga-color-trading/" target="_blank">Tiranga Colour Trading</h3>
     </section>
     <section>
       <h2>Introduction</h2>
